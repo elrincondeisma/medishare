@@ -9,7 +9,7 @@ return [
   'custom' => [
     'myLayout' => 'vertical', // Options[String]: vertical(default), horizontal  HORIZONTAL LAYOUT WOULD NOT WORK WITH SEMI DARK THEME
     'myTheme' => 'theme-default', // Options[String]: theme-default(default), theme-bordered, theme-semi-dark  SEMI-DARK THEME WOULD NOT WORK WITH HORIZONTAL LAYOUT
-    'myStyle' => 'light', // Options[String]: light(default), dark
+    'myStyle' => 'dark', // Options[String]: light(default), dark
     'myRTLSupport' => true, // options[Boolean]: true(default), false // To provide RTLSupport or not
     'myRTLMode' => false, // options[Boolean]: false(default), true // To set layout to RTL layout  (myRTLSupport must be true for rtl mode)
     'hasCustomizer' => true, // options[Boolean]: true(default), false // Display customizer or not THIS WILL REMOVE INCLUDED JS FILE. SO LOCAL STORAGE WON'T WORK

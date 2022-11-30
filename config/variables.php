@@ -3,7 +3,7 @@
   return [
     "creatorName" => "EL RINCON DE ISMA",
     "creatorUrl" => "https://me.elrincondeisma.com/",
-    "templateName" => "ERDI",
+    "templateName" => "MEDISHARE",
     "templateSuffix" => "Bootstrap Admin Template",
     "templateVersion" => "1.0.0",
     "templateFree" => true,
