@@ -7,10 +7,41 @@
       "slug": "pages-home"
     },
     {
-      "url": "/page-2",
-      "icon": "menu-icon tf-icons bx bx-file",
-      "name": "Page 2",
-      "slug": "pages-page-2"
+      "url": "/calendar",
+      "name": "Calendario",
+      "icon": "menu-icon tf-icons bx bxs-calendar",
+      "slug": "pages-calendar"
+    },
+    {
+      "url": "/drugs",
+      "name": "Medicinas",
+      "icon": "menu-icon tf-icons bx bx-capsule",
+      "slug": "pages-drugs"
+    },
+    {
+      "url": "/types_drugs",
+      "name": "Tipos de Medicinas",
+      "icon": "menu-icon tf-icons bx bx-blanket",
+      "slug": "pages-types_drugs"
+    },
+    {
+      "url": "/reminders",
+      "name": "Recordatorios",
+      "icon": "menu-icon tf-icons bx bx-alarm",
+      "slug": "pages-reminders"
+    },
+    {
+      "url": "/reports",
+      "name": "Informes",
+      "icon": "menu-icon tf-icons bx bxs-report",
+      "slug": "pages-reports"
+    },
+    {
+      "url": "/backups",
+      "name": "Backups",
+      "icon": "menu-icon tf-icons bx bxs-file-archive",
+      "slug": "pages-backups"
     }
+    
   ]
 }
